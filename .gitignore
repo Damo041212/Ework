@@ -1,0 +1,45 @@
+
+# ========== 系统文件 ==========
+.DS_Store
+Thumbs.db
+*.tmp
+*.temp
+
+# ========== MATLAB/Simulink ==========
+*.mat
+*.slxc
+*.slx.old
+*.mdl.old
+simlog_*
+*.log
+*.out
+*.mex*
+*.ptx
+
+# ========== 仿真输出 ==========
+output/
+results/
+data/
+figures/
+
+# ========== 报告相关 ==========
+*.aux
+*.bbl
+*.blg
+*.log
+*.out
+*.synctex.gz
+*.toc
+*.fdb_latexmk
+*.fls
+
+# ========== 备份文件 ==========
+*.bak
+*.backup
+*~
+
+# ========== IDE配置 ==========
+.vscode/
+.idea/
+*.swp
+*.swo
